@@ -5,6 +5,7 @@ const DirectorMessage = () => {
   return (
     <div className="bg-light m-4 container mx-auto rounded-3">
       <div>
+        <h3 className="fw-bold text-center p-3">Director Message</h3>
         <div className="p-3">
           <img
             className="d-block mx-auto"

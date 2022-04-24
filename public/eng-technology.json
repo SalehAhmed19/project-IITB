@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "technology": "Computer Technology",
+      "capacity": 120
+    },
+    {
+      "id": 2,
+      "technology": "Automobile Technology",
+      "capacity": 60
+    },
+    {
+      "id": 3,
+      "technology" : "Mechanical Technology",
+      "capacity" : 120
+    },
+    {
+      "id": 4,
+      "technology" : "Civil Technology",
+      "capacity": 120
+    },
+    {
+      "id": 5,
+      "technology" : "Electronics Technology",
+      "capacity": 60
+    },
+    {
+      "id": 6,
+      "technology" : "Surveying Technology",
+      "capacity": 60
+    },
+    {
+      "id": 7,
+      "technology" : "Electrical Technology",
+      "capacity": 120
+    },
+    {
+      "id": 8,
+      "technology" : "Architecture Technology",
+      "capacity": 60
+    },
+    {
+      "id": 9,
+      "technology" : "Telecommunication Technology",
+      "capacity": 60
+    }
+]
